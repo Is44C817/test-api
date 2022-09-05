@@ -1,0 +1,28 @@
+{
+    "price": [
+        {
+            "sku": "039430430493093",
+            "name": "Cerveza XX Ambar 325 ml",
+            "price": 22,
+            "dateExtraction": "10/04/21"
+        },
+        {
+            "sku": "039430430493093",
+            "name": "Cerveza XX Ambar 325 ml",
+            "price": 24,
+            "dateExtraction": "10/05/21"
+        },
+        {
+            "sku": "039430430493093",
+            "name": "Cerveza XX Ambar 325 ml",
+            "price": 26.5,
+            "dateExtraction": "10/06/21"
+        },
+        {
+            "sku": "039430430493093",
+            "name": "Cerveza XX Ambar 325 ml",
+            "price": 21,
+            "dateExtraction": "10/07/21"
+        }
+    ]
+}
